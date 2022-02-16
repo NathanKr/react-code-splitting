@@ -2,7 +2,6 @@ import { useState ,Suspense , lazy} from "react";
 import "./App.css";
 // import Component1 from "./components/Component1";
 const Component1 = lazy(() => import("./components/Component1"));
-
 function App() {
   const [show, setShow] = useState(false);
 
