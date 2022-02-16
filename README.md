@@ -1,5 +1,5 @@
 <h2>Motivation</h2>
-Experiment with react code splitting : React.lazy \ React.Suspense
+Experiment with react code splitting using React.lazy \ React.Suspense
 
 <h2>Points of interest</h2>
 <p>Component1 is _not_ loading when the App is loading </p>
