@@ -11,8 +11,13 @@ Experiment with react code splitting using React.lazy \ React.Suspense
 ![ScreenShot](/images/button_click.png)
 
 
+<p>Using code spliting - the component reside in a seperate js file (in red)</p>
 
+![ScreenShot](/images/prod_build_with_code_spliting.png)
 
+<p>when code spliting is not used i.e. use regular import the component does not reside in its own file</p>
+
+![ScreenShot](/images/prod_build_without_code_spliting.png)
 
 <h2>Setup</h2>
 <ul>
